@@ -19,7 +19,7 @@ Host github.com
   IdentityFile ~/.ssh/id_rsa_xxx
 ```
 
-* Clone the new project with:
+* Clone the new project with the link, please replace ":" with "/" and https://
 ```
 git clone xxx@github.com/xxx/projectname.git
 ```
