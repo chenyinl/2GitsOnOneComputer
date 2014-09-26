@@ -21,7 +21,7 @@ Host github.com
 
 * Clone the new project with the link, please replace ":" with "/" and https://
 ```
-git clone xxx@github.com/xxx/projectname.git
+git clone https://xxx@github.com/xxx/projectname.git
 ```
 
 * Update the email 
